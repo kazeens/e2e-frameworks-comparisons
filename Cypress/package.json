@@ -1,0 +1,14 @@
+{
+  "name": "sssssss",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {
+    "cypress": "^3.3.2"
+  },
+  "scripts": {
+    "test": "./node_modules/.bin/cypress run --browser chrome"
+  },
+  "author": "",
+  "license": "ISC"
+}
